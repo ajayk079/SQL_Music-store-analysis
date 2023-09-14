@@ -6,7 +6,7 @@ This is an Intermediate-level SQL project. The prime objective of this project i
 ### While working on this project I came to know about so many exciting Concepts of SQL. 
 ####	Q.	How Aggregate functions like COUNT(), SUM(), AVG(), and ROUND() work.
 ####	Q.	How does the ‘SELECT’ statement work
-####	Q.	How WHERE, ORDER BY, and HAVING clause works
+####	Q.	How WHERE, ORDER BY, and HAVING clause works.
 ####	Q.	How to work with IN, DISTINCT operator.
 ####	Q.	How to work with joins and extract values after joining multiple tables.
 
