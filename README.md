@@ -2,7 +2,7 @@
 ## Objective 
 This is an Intermediate-level SQL project. The prime objective of this project is to analyze the music playlist database. It helps the music store to understand its business growth by analyzing and answering simple questions as mentioned in the (Questions and Solution.docx) document. The dataset contains 12 tables.
 
-## SQL skills I learned in this project.
+## SQL skills I learned in this project..
 ### While working on this project I came to know about so many exciting Concepts of SQL. 
 ####	Q.	How Aggregate functions like COUNT(), SUM(), AVG(), and ROUND() work.
 ####	Q.	How does the ‘SELECT’ statement work
